@@ -1,0 +1,19 @@
+AVG = 타율 / double
+AB = 타수 / int
+H = 안타 / int
+H2 = 2루타 / int
+H3 = 3루타 /int
+HR = 홈런/int
+BB = 볼넷/int
+OBP = 출루율/double
+SLG = 장타율/double
+OPS = (출루율 + 장타율)/double
+
+W = 승 int
+L = 패 int
+ERA = 평균자책점 double
+SV = 세이브 int 
+IP = 총 이닝 수 double
+ER = 총 자책점 int
+SO = 탈삼진 int
+k_9 = 9이닝당 탈삼진 수 double
